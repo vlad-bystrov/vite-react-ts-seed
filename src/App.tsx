@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react'
 
 const App: React.FC = () => {
   return (
@@ -7,7 +7,7 @@ const App: React.FC = () => {
 
       <p>Sample content, for simple example</p>
     </>
-  );
-};
+  )
+}
 
-export default App;
+export default App
